@@ -1,0 +1,24 @@
+{
+  "name": "sails-hook-non-www",
+  "version": "0.11.1",
+  "description": "The simplest way to redirect the http://www.example.com requests to http://example.com",
+  "keywords": [
+    "sails-hook",
+    "sails",
+    "sails.js",
+    "hook",
+    "non-www",
+    "redirect-non-www",
+    "redirect"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Josebaseba/sails-hook-non-www.git"
+  },
+  "sails": {
+    "isHook": true
+  },
+  "author": "Joseba Legarreta @josebaseba",
+  "license": "MIT"
+}
