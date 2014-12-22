@@ -20,5 +20,9 @@
     "isHook": true
   },
   "author": "Joseba Legarreta @josebaseba",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Josebaseba/sails-hook-non-www/issues"
+  },
+  "homepage": "https://github.com/Josebaseba/sails-hook-non-www"
 }
